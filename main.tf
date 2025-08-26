@@ -1,0 +1,3 @@
+# Azure onboarding script
+
+
